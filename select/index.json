@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Persona",
+  "base_artist": "go!go!vanillas",
+  "createdAt": "2026-03-12T01:47:49.689092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Persona",
+      "artist": "Lil Boom",
+      "has_synced": false,
+      "path": "select/01_Persona_Lil_Boom.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Freak (feat. Persona)",
+      "artist": "Lil Keed feat. Persona",
+      "has_synced": true,
+      "path": "select/02_Freak_(feat._Persona)_Lil_Keed_feat._Persona.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Freak (feat. Persona)",
+      "artist": "Lil Keed",
+      "has_synced": true,
+      "path": "select/03_Freak_(feat._Persona)_Lil_Keed.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Faith in Persona",
+      "artist": "death's dynamic shroud",
+      "has_synced": false,
+      "path": "select/04_Faith_in_Persona_death's_dynamic_shroud.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Persona Non Grata",
+      "artist": "Suzi Sabotage",
+      "has_synced": false,
+      "path": "select/05_Persona_Non_Grata_Suzi_Sabotage.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Persona Non Grata",
+      "artist": "Napalm Death",
+      "has_synced": true,
+      "path": "select/06_Persona_Non_Grata_Napalm_Death.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Persona Non Grata",
+      "artist": "Exodus",
+      "has_synced": true,
+      "path": "select/07_Persona_Non_Grata_Exodus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Una persona normale",
+      "artist": "Matia Bazar",
+      "has_synced": false,
+      "path": "select/08_Una_persona_normale_Matia_Bazar.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sólo Soy una Persona",
+      "artist": "Mecano",
+      "has_synced": true,
+      "path": "select/09_Sólo_Soy_una_Persona_Mecano.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Marvelous Persona",
+      "artist": "Nicole Dollanganger",
+      "has_synced": false,
+      "path": "select/10_A_Marvelous_Persona_Nicole_Dollanganger.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Surprise (From \"Persona 5\")",
+      "artist": "Shoji Meguro feat. daigoro789",
+      "has_synced": true,
+      "path": "select/11_Last_Surprise_(From__Persona_5_)_Shoji_Meguro_feat._daigoro789.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Life Will Change (From \"Persona 5\")",
+      "artist": "Shoji Meguro feat. daigoro789",
+      "has_synced": true,
+      "path": "select/12_Life_Will_Change_(From__Persona_5_)_Shoji_Meguro_feat._daigoro789.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rivers in the Desert (From \"Persona 5\")",
+      "artist": "Shoji Meguro feat. daigoro789",
+      "has_synced": true,
+      "path": "select/13_Rivers_in_the_Desert_(From__Persona_5_)_Shoji_Meguro_feat._daigoro789.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Persona",
+      "artist": "go!go!vanillas",
+      "has_synced": false,
+      "path": "select/pl_01_Persona_go!go!vanillas.txt"
+    }
+  ]
+}
